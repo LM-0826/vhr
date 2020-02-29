@@ -1,0 +1,11 @@
+<comfiguration>
+
+    <dataSource>
+        <property name = "driverClass" value = ""></property>
+        <property name = "" value = ""></property>
+        <property name = "" value = ""></property>
+        <property name = "" value = ""></property>
+    </dataSource>
+
+
+</comfiguration>
